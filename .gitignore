@@ -76,3 +76,6 @@ EGD3/Saved/AutoScreenshot.png
 *.log
 CrashReportClient.ini
 EGD3/Saved/Config/Windows/SourceControlSettings.ini
+EGD3/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+EGD3/Intermediate/CachedAssetRegistry.bin
+EGD3/Saved/Autosaves/PackageRestoreData.json
